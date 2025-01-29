@@ -1,6 +1,4 @@
-# TaskApp (frontend)
-
-A Quasar Project
+![alt text](https://github.com/a4amaan/task-crud/blob/main/img.png?raw=true)
 
 ## Install the dependencies
 ```bash
