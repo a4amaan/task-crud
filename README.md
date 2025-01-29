@@ -9,7 +9,12 @@ yarn
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Start the backend server
+```bash
+npm run server
+```
+
+### Start the frontend app
 ```bash
 quasar dev
 ```
@@ -19,6 +24,3 @@ quasar dev
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
